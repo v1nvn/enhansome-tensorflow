@@ -267,7 +267,7 @@
             "last_commit": "2024-02-22T02:05:20Z",
             "owner": "tensorlayer",
             "repo": "srgan",
-            "stars": 3466
+            "stars": 3465
           }
         },
         {
@@ -579,7 +579,7 @@
             "last_commit": "2019-04-18T18:36:45Z",
             "owner": "devsisters",
             "repo": "DQN-tensorflow",
-            "stars": 2577
+            "stars": 2579
           }
         },
         {
@@ -1019,7 +1019,7 @@
             "last_commit": "2026-01-06T01:17:54Z",
             "owner": "tensorflow",
             "repo": "magenta",
-            "stars": 19776
+            "stars": 19777
           }
         }
       ],
@@ -1108,7 +1108,7 @@
             "last_commit": "2026-02-05T22:32:45Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77690
+            "stars": 77691
           }
         },
         {
@@ -1178,7 +1178,7 @@
             "last_commit": "2026-02-05T22:32:45Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77690
+            "stars": 77691
           }
         },
         {
@@ -1214,7 +1214,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-02-05T22:25:33Z",
+            "last_commit": "2026-02-07T23:19:25Z",
             "owner": "deepmind",
             "repo": "sonnet",
             "stars": 9903
@@ -1389,10 +1389,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-07T07:23:26.115Z",
+    "last_updated": "2026-02-08T04:31:20.834Z",
     "original_repository": "jtoy/awesome-tensorflow",
     "source_repository": "v1nvn/enhansome-tensorflow",
-    "source_repository_description": "",
+    "source_repository_description": null,
     "title": "Awesome TensorFlow with stars"
   }
 }
