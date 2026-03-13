@@ -44,7 +44,7 @@
             "last_commit": "2021-01-15T20:20:02Z",
             "owner": "Hvass-Labs",
             "repo": "TensorFlow-Tutorials",
-            "stars": 9274
+            "stars": 9275
           }
         },
         {
@@ -127,7 +127,7 @@
             "last_commit": "2023-03-25T00:33:48Z",
             "owner": "guillaume-chevalier",
             "repo": "seq2seq-signal-prediction",
-            "stars": 1086
+            "stars": 1085
           }
         },
         {
@@ -267,7 +267,7 @@
             "last_commit": "2024-02-22T02:05:20Z",
             "owner": "tensorlayer",
             "repo": "SRGAN",
-            "stars": 3466
+            "stars": 3467
           }
         },
         {
@@ -735,7 +735,7 @@
             "last_commit": "2023-10-23T23:26:26Z",
             "owner": "thtrieu",
             "repo": "darkflow",
-            "stars": 6153
+            "stars": 6154
           }
         },
         {
@@ -748,7 +748,7 @@
             "last_commit": "2023-07-12T06:15:53Z",
             "owner": "ibab",
             "repo": "tensorflow-wavenet",
-            "stars": 5436
+            "stars": 5437
           }
         },
         {
@@ -917,7 +917,7 @@
             "last_commit": "2026-01-05T13:47:10Z",
             "owner": "kubeflow",
             "repo": "kubeflow",
-            "stars": 15508
+            "stars": 15511
           }
         },
         {
@@ -1108,7 +1108,7 @@
             "last_commit": "2026-03-11T02:21:33Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77688
+            "stars": 77687
           }
         },
         {
@@ -1178,7 +1178,7 @@
             "last_commit": "2026-03-11T02:21:33Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77688
+            "stars": 77687
           }
         },
         {
@@ -1350,7 +1350,7 @@
             "last_commit": "2024-07-22T02:07:03Z",
             "owner": "nebuly-ai",
             "repo": "optimate",
-            "stars": 8351
+            "stars": 8349
           }
         },
         {
@@ -1389,7 +1389,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-12T04:12:54.554Z",
+    "last_updated": "2026-03-13T04:11:30.736Z",
     "original_repository": "jtoy/awesome-tensorflow",
     "source_repository": "v1nvn/enhansome-tensorflow",
     "source_repository_description": null,
