@@ -57,7 +57,7 @@
             "last_commit": "2024-07-26T19:46:13Z",
             "owner": "aymericdamien",
             "repo": "TensorFlow-Examples",
-            "stars": 43788
+            "stars": 43790
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2020-10-22T05:26:17Z",
             "owner": "vahidk",
             "repo": "EffectiveTensorflow",
-            "stars": 8604
+            "stars": 8603
           }
         },
         {
@@ -397,7 +397,7 @@
             "last_commit": "2022-12-30T14:42:37Z",
             "owner": "Conchylicultor",
             "repo": "DeepQA",
-            "stars": 2921
+            "stars": 2920
           }
         },
         {
@@ -696,7 +696,7 @@
             "last_commit": "2024-04-15T19:15:44Z",
             "owner": "dennybritz",
             "repo": "cnn-text-classification-tf",
-            "stars": 5683
+            "stars": 5684
           }
         },
         {
@@ -735,7 +735,7 @@
             "last_commit": "2023-10-23T23:26:26Z",
             "owner": "thtrieu",
             "repo": "darkflow",
-            "stars": 6152
+            "stars": 6151
           }
         },
         {
@@ -813,7 +813,7 @@
             "last_commit": "2019-08-17T21:55:15Z",
             "owner": "zsdonghao",
             "repo": "u-net-brain-tumor",
-            "stars": 532
+            "stars": 533
           }
         },
         {
@@ -839,7 +839,7 @@
             "last_commit": "2022-11-07T13:58:59Z",
             "owner": "astorfi",
             "repo": "lip-reading-deeplearning",
-            "stars": 1903
+            "stars": 1904
           }
         },
         {
@@ -917,7 +917,7 @@
             "last_commit": "2026-01-05T13:47:10Z",
             "owner": "kubeflow",
             "repo": "kubeflow",
-            "stars": 15530
+            "stars": 15536
           }
         },
         {
@@ -1019,7 +1019,7 @@
             "last_commit": "2026-01-06T01:17:54Z",
             "owner": "magenta",
             "repo": "magenta",
-            "stars": 19775
+            "stars": 19776
           }
         }
       ],
@@ -1108,7 +1108,7 @@
             "last_commit": "2026-03-25T22:31:46Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77689
+            "stars": 77685
           }
         },
         {
@@ -1178,7 +1178,7 @@
             "last_commit": "2026-03-25T22:31:46Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77689
+            "stars": 77685
           }
         },
         {
@@ -1287,7 +1287,7 @@
             "last_commit": "2024-04-10T12:25:23Z",
             "owner": "stellargraph",
             "repo": "stellargraph",
-            "stars": 3048
+            "stars": 3047
           }
         },
         {
@@ -1318,7 +1318,7 @@
             "last_commit": "2026-01-23T02:09:40Z",
             "owner": "tensorlayer",
             "repo": "TensorLayerX",
-            "stars": 527
+            "stars": 528
           }
         },
         {
@@ -1389,7 +1389,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-26T04:31:36.451Z",
+    "last_updated": "2026-03-27T04:32:49.020Z",
     "original_repository": "jtoy/awesome-tensorflow",
     "source_repository": "v1nvn/enhansome-tensorflow",
     "source_repository_description": null,
