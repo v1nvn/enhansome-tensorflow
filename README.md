@@ -39,7 +39,7 @@ More info [here](http://tensorflow.org).
 * [Sungjoon's TensorFlow-101](https://github.com/sjchoi86/Tensorflow-101) ⭐ 2,598 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2020-03-23 - TensorFlow tutorials written in Python with Jupyter Notebook
 * [Installing TensorFlow on Raspberry Pi 3](https://github.com/samjabrahams/tensorflow-on-raspberry-pi) ⭐ 2,259 | 🐛 73 | 🌐 Python | 📅 2018-11-08 - TensorFlow compiled and running properly on the Raspberry Pi
 * [Predict time series](https://github.com/guillaume-chevalier/seq2seq-signal-prediction) ⭐ 1,082 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2023-03-25 - Learn to use a seq2seq model on simple datasets as an introduction to the vast array of possibilities that this architecture offers
-* [Terry Um’s TensorFlow Exercises](https://github.com/terryum/TensorFlow_Exercises) ⭐ 613 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2019-05-14 - Re-create the codes from other TensorFlow examples
+* [Terry Um’s TensorFlow Exercises](https://github.com/terryum/TensorFlow_Exercises) ⭐ 612 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2019-05-14 - Re-create the codes from other TensorFlow examples
 * [Single Image Random Dot Stereograms](https://github.com/Mazecreator/TensorFlow-SIRDS) ⭐ 6 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2020-10-25 - SIRDS is a means to present 3D data in a 2D image. It allows for scientific data display of a waterfall type plot with no hidden lines due to perspective.
 * [Getting Started with TensorFlow on Android](https://omid.al/posts/2017-02-20-Tutorial-Build-Your-First-Tensorflow-Android-App.html) - Build your first TensorFlow Android app
 * [CS20 SI: TensorFlow for DeepLearning Research](http://web.stanford.edu/class/cs20si/syllabus.html) - Stanford Course about Tensorflow from 2017 - [Syllabus](http://web.stanford.edu/class/cs20si/syllabus.html) - [Unofficial Videos](https://youtu.be/g-EvyKpZjmQ?list=PLSPPwKHXGS2110rEaNH7amFGmaD5hsObs)
@@ -53,7 +53,7 @@ More info [here](http://tensorflow.org).
 
 ## Models/Projects
 
-* [Kubeflow](https://github.com/kubeflow/kubeflow) ⭐ 15,579 | 🐛 0 | 📅 2026-01-05 - Framework for easily using Tensorflow with Kubernetes.
+* [Kubeflow](https://github.com/kubeflow/kubeflow) ⭐ 15,582 | 🐛 0 | 📅 2026-01-05 - Framework for easily using Tensorflow with Kubernetes.
 * [Policy Gradient](https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_atari_pong.py) ⭐ 7,391 | 🐛 36 | 🌐 Python | 📅 2023-02-18 - For Playing Atari Ping Pong
 * [Deep Q-Network](https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_frozenlake_dqn.py) ⭐ 7,391 | 🐛 36 | 🌐 Python | 📅 2023-02-18 - For Playing Frozen Lake Game
 * [AC](https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_cartpole_ac.py) ⭐ 7,391 | 🐛 36 | 🌐 Python | 📅 2023-02-18 - Actor Critic for Playing Discrete Action space Game (Cartpole)
@@ -61,14 +61,14 @@ More info [here](http://tensorflow.org).
 * [YOLO TensorFlow ++](https://github.com/thtrieu/yolotf) ⭐ 6,147 | 🐛 643 | 🌐 Python | 📅 2023-10-23 - TensorFlow implementation of 'YOLO: Real-Time Object Detection', with training and an actual support for real-time running on mobile devices.
 * [Sentence Classification with CNN](https://github.com/dennybritz/cnn-text-classification-tf) ⭐ 5,685 | 🐛 110 | 🌐 Python | 📅 2024-04-15 - TensorFlow implementation of ["Convolutional Neural Networks for Sentence Classification"](http://arxiv.org/abs/1408.5882) with a [blog post](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
 * [Neural Style](https://github.com/anishathalye/neural-style) ⭐ 5,548 | 🐛 0 | 🌐 Python | 📅 2025-09-15 - An implementation of neural style
-* [Wavenet](https://github.com/ibab/tensorflow-wavenet) ⭐ 5,434 | 🐛 175 | 🌐 Python | 📅 2023-07-12 - This is a TensorFlow implementation of the [WaveNet generative neural network architecture](https://deepmind.com/blog/wavenet-generative-model-raw-audio/) for audio generation.
+* [Wavenet](https://github.com/ibab/tensorflow-wavenet) ⭐ 5,435 | 🐛 175 | 🌐 Python | 📅 2023-07-12 - This is a TensorFlow implementation of the [WaveNet generative neural network architecture](https://deepmind.com/blog/wavenet-generative-model-raw-audio/) for audio generation.
 * [Tensorflow-Project-Template](https://github.com/Mrgemy95/Tensorflow-Project-Template) ⭐ 3,625 | 🐛 5 | 🌐 Python | 📅 2022-04-21 - A simple and well-designed template for your tensorflow project.
 * [Colornet - Neural Network to colorize grayscale images](https://github.com/pavelgonchar/colornet) ⭐ 3,561 | 🐛 15 | 🌐 Python | 📅 2020-04-21 - Neural Network to colorize grayscale images
 * [SRGAN](https://github.com/tensorlayer/srgan) ⭐ 3,476 | 🐛 154 | 🌐 Python | 📅 2024-02-22 - Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network
-* [Neural Style](https://github.com/cysmith/neural-style-tf) ⭐ 3,112 | 🐛 68 | 🌐 Python | 📅 2020-12-24 Implementation of Neural Style
+* [Neural Style](https://github.com/cysmith/neural-style-tf) ⭐ 3,111 | 🐛 68 | 🌐 Python | 📅 2020-12-24 Implementation of Neural Style
 * [Chatbot](https://github.com/Conchylicultor/DeepQA) ⭐ 2,917 | 🐛 93 | 🌐 Python | 📅 2022-12-30 - Implementation of ["A neural conversational model"](http://arxiv.org/abs/1506.05869)
 * [DQN-tensorflow](https://github.com/devsisters/DQN-tensorflow) ⭐ 2,586 | 🐛 39 | 🌐 Python | 📅 2019-04-18 - TensorFlow implementation of DeepMind's 'Human-Level Control through Deep Reinforcement Learning' with OpenAI Gym by Devsisters.com
-* [Lip Reading - Cross Audio-Visual Recognition using 3D Architectures in TensorFlow](https://github.com/astorfi/lip-reading-deeplearning) ⭐ 1,903 | 🐛 7 | 🌐 Python | 📅 2022-11-07 - TensorFlow Implementation of ["Cross Audio-Visual Recognition in the Wild Using Deep Learning"](https://arxiv.org/abs/1706.05739) by Torfi et al.
+* [Lip Reading - Cross Audio-Visual Recognition using 3D Architectures in TensorFlow](https://github.com/astorfi/lip-reading-deeplearning) ⭐ 1,902 | 🐛 7 | 🌐 Python | 📅 2022-11-07 - TensorFlow Implementation of ["Cross Audio-Visual Recognition in the Wild Using Deep Learning"](https://arxiv.org/abs/1706.05739) by Torfi et al.
 * [DeepOSM](https://github.com/trailbehind/DeepOSM) ⭐ 1,331 | 🐛 13 | 🌐 Python | 📅 2017-03-13 - Train TensorFlow neural nets with OpenStreetMap features and satellite imagery.
 * [Pretty Tensor](https://github.com/google/prettytensor) ⚠️ Archived - Pretty Tensor provides a high level builder API
 * [Neural Turing Machine in TensorFlow](https://github.com/carpedm20/NTM-tensorflow) ⭐ 1,048 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2017-05-18 - implementation of Neural Turing Machine
@@ -157,8 +157,8 @@ More info [here](http://tensorflow.org).
 
 ## Tools/Utilities
 
-* [Speedster](https://github.com/nebuly-ai/nebullvm/tree/main/apps/accelerate/speedster) ⭐ 8,342 | 🐛 111 | 🌐 Python | 📅 2024-07-22 - Automatically apply SOTA optimization techniques to achieve the maximum inference speed-up on your hardware.
-* [ML Workspace](https://github.com/ml-tooling/ml-workspace) ⭐ 3,542 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-07-26 - All-in-one web IDE for machine learning and data science. Combines Tensorflow, Jupyter, VS Code, Tensorboard, and many other tools/libraries into one Docker image.
+* [Speedster](https://github.com/nebuly-ai/nebullvm/tree/main/apps/accelerate/speedster) ⭐ 8,343 | 🐛 111 | 🌐 Python | 📅 2024-07-22 - Automatically apply SOTA optimization techniques to achieve the maximum inference speed-up on your hardware.
+* [ML Workspace](https://github.com/ml-tooling/ml-workspace) ⭐ 3,543 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-07-26 - All-in-one web IDE for machine learning and data science. Combines Tensorflow, Jupyter, VS Code, Tensorboard, and many other tools/libraries into one Docker image.
 * [create-tf-app](https://github.com/radi-cho/create-tf-app) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2022-12-24 - Project builder command line tool for Tensorflow covering environment management, linting, and logging.
 * [Guild AI](https://guild.ai) - Task runner and package manager for TensorFlow
 
@@ -256,11 +256,11 @@ Also, if you notice that any of the above listed repositories should be deprecat
 * Repository's owner explicitly say that "this library is not maintained".
 * Not committed for long time (2\~3 years).
 
-More info on the [guidelines](https://github.com/jtoy/awesome-tensorflow/blob/master/contributing.md) ⭐ 17,612 | 🐛 31 | 📅 2026-02-08
+More info on the [guidelines](https://github.com/jtoy/awesome-tensorflow/blob/master/contributing.md) ⭐ 17,613 | 🐛 31 | 📅 2026-02-08
 
 <a name="credits" />
 
 ## Credits
 
-* Some of the python libraries were cut-and-pasted from [vinta](https://github.com/vinta/awesome-python) ⭐ 292,760 | 🐛 21 | 🌐 Python | 📅 2026-04-15
+* Some of the python libraries were cut-and-pasted from [vinta](https://github.com/vinta/awesome-python) ⭐ 292,941 | 🐛 19 | 🌐 Python | 📅 2026-04-17
 * The few go reference I found where pulled from [this page](https://code.google.com/p/go-wiki/wiki/Projects#Machine_Learning)
