@@ -57,7 +57,7 @@
             "last_commit": "2024-07-26T19:46:13Z",
             "owner": "aymericdamien",
             "repo": "TensorFlow-Examples",
-            "stars": 43776
+            "stars": 43775
           }
         },
         {
@@ -1019,7 +1019,7 @@
             "last_commit": "2026-01-06T01:17:54Z",
             "owner": "magenta",
             "repo": "magenta",
-            "stars": 19784
+            "stars": 19780
           }
         }
       ],
@@ -1108,7 +1108,7 @@
             "last_commit": "2026-05-09T02:16:33Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77664
+            "stars": 77660
           }
         },
         {
@@ -1131,7 +1131,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-09T04:36:36Z",
+            "last_commit": "2026-05-09T09:32:53Z",
             "owner": "tensorforce",
             "repo": "tensorforce",
             "stars": 3308
@@ -1178,7 +1178,7 @@
             "last_commit": "2026-05-09T02:16:33Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77664
+            "stars": 77660
           }
         },
         {
@@ -1230,7 +1230,7 @@
             "last_commit": "2023-08-06T00:30:36Z",
             "owner": "tensorpack",
             "repo": "tensorpack",
-            "stars": 6292
+            "stars": 6291
           }
         },
         {
@@ -1287,7 +1287,7 @@
             "last_commit": "2024-04-10T12:25:23Z",
             "owner": "stellargraph",
             "repo": "stellargraph",
-            "stars": 3054
+            "stars": 3055
           }
         },
         {
@@ -1350,7 +1350,7 @@
             "last_commit": "2024-07-22T02:07:03Z",
             "owner": "nebuly-ai",
             "repo": "optimate",
-            "stars": 8348
+            "stars": 8345
           }
         },
         {
@@ -1389,7 +1389,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-09T05:20:21.720Z",
+    "last_updated": "2026-05-10T05:35:37.140Z",
     "original_repository": "jtoy/awesome-tensorflow",
     "source_repository": "v1nvn/enhansome-tensorflow",
     "source_repository_description": null,
