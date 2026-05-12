@@ -18,7 +18,7 @@
             "last_commit": "2021-12-11T20:54:51Z",
             "owner": "pkmital",
             "repo": "tensorflow_tutorials",
-            "stars": 5667
+            "stars": 5666
           }
         },
         {
@@ -57,7 +57,7 @@
             "last_commit": "2024-07-26T19:46:13Z",
             "owner": "aymericdamien",
             "repo": "TensorFlow-Examples",
-            "stars": 43776
+            "stars": 43775
           }
         },
         {
@@ -109,7 +109,7 @@
             "last_commit": "2022-11-06T17:53:06Z",
             "owner": "guillaume-chevalier",
             "repo": "LSTM-Human-Activity-Recognition",
-            "stars": 3487
+            "stars": 3486
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2020-10-22T05:26:17Z",
             "owner": "vahidk",
             "repo": "EffectiveTensorflow",
-            "stars": 8594
+            "stars": 8592
           }
         },
         {
@@ -215,7 +215,7 @@
             "last_commit": "2022-04-21T06:56:15Z",
             "owner": "MrGemy95",
             "repo": "Tensorflow-Project-Template",
-            "stars": 3622
+            "stars": 3620
           }
         },
         {
@@ -293,7 +293,7 @@
             "last_commit": "2026-04-18T16:29:56Z",
             "owner": "anishathalye",
             "repo": "neural-style",
-            "stars": 5544
+            "stars": 5543
           }
         },
         {
@@ -410,7 +410,7 @@
             "last_commit": "2021-10-05T13:25:46Z",
             "owner": "tensorlayer",
             "repo": "seq2seq-chatbot",
-            "stars": 842
+            "stars": 841
           }
         },
         {
@@ -475,7 +475,7 @@
             "last_commit": "2019-07-11T11:46:47Z",
             "owner": "tensorlayer",
             "repo": "DAGAN",
-            "stars": 180
+            "stars": 181
           }
         },
         {
@@ -592,7 +592,7 @@
             "last_commit": "2023-02-18T07:58:21Z",
             "owner": "tensorlayer",
             "repo": "TensorLayer",
-            "stars": 7390
+            "stars": 7389
           }
         },
         {
@@ -605,7 +605,7 @@
             "last_commit": "2023-02-18T07:58:21Z",
             "owner": "tensorlayer",
             "repo": "TensorLayer",
-            "stars": 7390
+            "stars": 7389
           }
         },
         {
@@ -618,7 +618,7 @@
             "last_commit": "2023-02-18T07:58:21Z",
             "owner": "tensorlayer",
             "repo": "TensorLayer",
-            "stars": 7390
+            "stars": 7389
           }
         },
         {
@@ -631,7 +631,7 @@
             "last_commit": "2023-02-18T07:58:21Z",
             "owner": "tensorlayer",
             "repo": "TensorLayer",
-            "stars": 7390
+            "stars": 7389
           }
         },
         {
@@ -1006,7 +1006,7 @@
             "last_commit": "2022-10-15T11:34:11Z",
             "owner": "natanielruiz",
             "repo": "android-yolo",
-            "stars": 693
+            "stars": 692
           }
         },
         {
@@ -1019,7 +1019,7 @@
             "last_commit": "2026-01-06T01:17:54Z",
             "owner": "magenta",
             "repo": "magenta",
-            "stars": 19781
+            "stars": 19780
           }
         }
       ],
@@ -1082,7 +1082,7 @@
             "last_commit": "2024-05-06T11:34:20Z",
             "owner": "tflearn",
             "repo": "tflearn",
-            "stars": 9588
+            "stars": 9587
           }
         },
         {
@@ -1095,7 +1095,7 @@
             "last_commit": "2023-02-18T07:58:21Z",
             "owner": "tensorlayer",
             "repo": "TensorLayer",
-            "stars": 7390
+            "stars": 7389
           }
         },
         {
@@ -1105,7 +1105,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-09T02:16:33Z",
+            "last_commit": "2026-05-11T21:36:31Z",
             "owner": "tensorflow",
             "repo": "models",
             "stars": 77659
@@ -1175,7 +1175,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-09T02:16:33Z",
+            "last_commit": "2026-05-11T21:36:31Z",
             "owner": "tensorflow",
             "repo": "models",
             "stars": 77659
@@ -1191,7 +1191,7 @@
             "last_commit": "2022-06-15T12:11:24Z",
             "owner": "transcranial",
             "repo": "keras-js",
-            "stars": 4965
+            "stars": 4964
           }
         },
         {
@@ -1350,7 +1350,7 @@
             "last_commit": "2024-07-22T02:07:03Z",
             "owner": "nebuly-ai",
             "repo": "optimate",
-            "stars": 8345
+            "stars": 8346
           }
         },
         {
@@ -1389,7 +1389,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-11T05:57:09.337Z",
+    "last_updated": "2026-05-12T05:37:11.885Z",
     "original_repository": "jtoy/awesome-tensorflow",
     "source_repository": "v1nvn/enhansome-tensorflow",
     "source_repository_description": null,
