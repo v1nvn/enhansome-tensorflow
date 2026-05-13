@@ -44,7 +44,7 @@
             "last_commit": "2021-01-15T20:20:02Z",
             "owner": "Hvass-Labs",
             "repo": "TensorFlow-Tutorials",
-            "stars": 9269
+            "stars": 9268
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2020-10-22T05:26:17Z",
             "owner": "vahidk",
             "repo": "EffectiveTensorflow",
-            "stars": 8592
+            "stars": 8593
           }
         },
         {
@@ -917,7 +917,7 @@
             "last_commit": "2026-05-07T13:46:41Z",
             "owner": "kubeflow",
             "repo": "kubeflow",
-            "stars": 15630
+            "stars": 15628
           }
         },
         {
@@ -1108,7 +1108,7 @@
             "last_commit": "2026-05-11T21:36:31Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77659
+            "stars": 77661
           }
         },
         {
@@ -1178,7 +1178,7 @@
             "last_commit": "2026-05-11T21:36:31Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77659
+            "stars": 77661
           }
         },
         {
@@ -1350,7 +1350,7 @@
             "last_commit": "2024-07-22T02:07:03Z",
             "owner": "nebuly-ai",
             "repo": "optimate",
-            "stars": 8346
+            "stars": 8347
           }
         },
         {
@@ -1389,7 +1389,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-12T05:37:11.885Z",
+    "last_updated": "2026-05-13T05:46:39.641Z",
     "original_repository": "jtoy/awesome-tensorflow",
     "source_repository": "v1nvn/enhansome-tensorflow",
     "source_repository_description": null,
