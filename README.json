@@ -44,7 +44,7 @@
             "last_commit": "2021-01-15T20:20:02Z",
             "owner": "Hvass-Labs",
             "repo": "TensorFlow-Tutorials",
-            "stars": 9268
+            "stars": 9269
           }
         },
         {
@@ -215,7 +215,7 @@
             "last_commit": "2022-04-21T06:56:15Z",
             "owner": "mgsalem",
             "repo": "Tensorflow-Project-Template",
-            "stars": 3620
+            "stars": 3619
           }
         },
         {
@@ -592,7 +592,7 @@
             "last_commit": "2023-02-18T07:58:21Z",
             "owner": "tensorlayer",
             "repo": "TensorLayer",
-            "stars": 7389
+            "stars": 7388
           }
         },
         {
@@ -605,7 +605,7 @@
             "last_commit": "2023-02-18T07:58:21Z",
             "owner": "tensorlayer",
             "repo": "TensorLayer",
-            "stars": 7389
+            "stars": 7388
           }
         },
         {
@@ -618,7 +618,7 @@
             "last_commit": "2023-02-18T07:58:21Z",
             "owner": "tensorlayer",
             "repo": "TensorLayer",
-            "stars": 7389
+            "stars": 7388
           }
         },
         {
@@ -631,7 +631,7 @@
             "last_commit": "2023-02-18T07:58:21Z",
             "owner": "tensorlayer",
             "repo": "TensorLayer",
-            "stars": 7389
+            "stars": 7388
           }
         },
         {
@@ -813,7 +813,7 @@
             "last_commit": "2019-08-17T21:55:15Z",
             "owner": "zsdonghao",
             "repo": "u-net-brain-tumor",
-            "stars": 533
+            "stars": 534
           }
         },
         {
@@ -917,7 +917,7 @@
             "last_commit": "2026-05-07T13:46:41Z",
             "owner": "kubeflow",
             "repo": "kubeflow",
-            "stars": 15630
+            "stars": 15632
           }
         },
         {
@@ -1095,7 +1095,7 @@
             "last_commit": "2023-02-18T07:58:21Z",
             "owner": "tensorlayer",
             "repo": "TensorLayer",
-            "stars": 7389
+            "stars": 7388
           }
         },
         {
@@ -1108,7 +1108,7 @@
             "last_commit": "2026-05-13T20:40:52Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77663
+            "stars": 77662
           }
         },
         {
@@ -1178,7 +1178,7 @@
             "last_commit": "2026-05-13T20:40:52Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77663
+            "stars": 77662
           }
         },
         {
@@ -1389,7 +1389,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-15T05:53:21.751Z",
+    "last_updated": "2026-05-16T05:25:38.173Z",
     "original_repository": "jtoy/awesome-tensorflow",
     "source_repository": "v1nvn/enhansome-tensorflow",
     "source_repository_description": null,
