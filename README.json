@@ -96,7 +96,7 @@
             "last_commit": "2018-11-08T18:48:00Z",
             "owner": "samjabrahams",
             "repo": "tensorflow-on-raspberry-pi",
-            "stars": 2260
+            "stars": 2259
           }
         },
         {
@@ -748,7 +748,7 @@
             "last_commit": "2023-07-12T06:15:53Z",
             "owner": "ibab",
             "repo": "tensorflow-wavenet",
-            "stars": 5432
+            "stars": 5433
           }
         },
         {
@@ -917,7 +917,7 @@
             "last_commit": "2026-05-07T13:46:41Z",
             "owner": "kubeflow",
             "repo": "kubeflow",
-            "stars": 15645
+            "stars": 15647
           }
         },
         {
@@ -1019,7 +1019,7 @@
             "last_commit": "2026-01-06T01:17:54Z",
             "owner": "magenta",
             "repo": "magenta",
-            "stars": 19777
+            "stars": 19779
           }
         }
       ],
@@ -1108,7 +1108,7 @@
             "last_commit": "2026-05-13T20:40:52Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77663
+            "stars": 77662
           }
         },
         {
@@ -1178,7 +1178,7 @@
             "last_commit": "2026-05-13T20:40:52Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77663
+            "stars": 77662
           }
         },
         {
@@ -1368,7 +1368,7 @@
             "last_commit": "2024-07-26T07:39:39Z",
             "owner": "ml-tooling",
             "repo": "ml-workspace",
-            "stars": 3541
+            "stars": 3540
           }
         },
         {
@@ -1389,7 +1389,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-18T06:11:53.093Z",
+    "last_updated": "2026-05-19T06:05:46.673Z",
     "original_repository": "jtoy/awesome-tensorflow",
     "source_repository": "v1nvn/enhansome-tensorflow",
     "source_repository_description": null,
