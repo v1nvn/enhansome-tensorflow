@@ -488,7 +488,7 @@
             "last_commit": "2020-04-21T10:17:51Z",
             "owner": "pavelgonchar",
             "repo": "colornet",
-            "stars": 3559
+            "stars": 3558
           }
         },
         {
@@ -917,7 +917,7 @@
             "last_commit": "2026-05-24T11:31:41Z",
             "owner": "kubeflow",
             "repo": "kubeflow",
-            "stars": 15673
+            "stars": 15678
           }
         },
         {
@@ -1019,7 +1019,7 @@
             "last_commit": "2026-01-06T01:17:54Z",
             "owner": "magenta",
             "repo": "magenta",
-            "stars": 19778
+            "stars": 19777
           }
         }
       ],
@@ -1108,7 +1108,7 @@
             "last_commit": "2026-05-26T15:31:14Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77663
+            "stars": 77662
           }
         },
         {
@@ -1178,7 +1178,7 @@
             "last_commit": "2026-05-26T15:31:14Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77663
+            "stars": 77662
           }
         },
         {
@@ -1191,7 +1191,7 @@
             "last_commit": "2022-06-15T12:11:24Z",
             "owner": "transcranial",
             "repo": "keras-js",
-            "stars": 4962
+            "stars": 4963
           }
         },
         {
@@ -1230,7 +1230,7 @@
             "last_commit": "2023-08-06T00:30:36Z",
             "owner": "tensorpack",
             "repo": "tensorpack",
-            "stars": 6290
+            "stars": 6291
           }
         },
         {
@@ -1350,7 +1350,7 @@
             "last_commit": "2024-07-22T02:07:03Z",
             "owner": "nebuly-ai",
             "repo": "optimate",
-            "stars": 8339
+            "stars": 8338
           }
         },
         {
@@ -1389,7 +1389,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-28T06:09:09.916Z",
+    "last_updated": "2026-05-29T06:11:19.564Z",
     "original_repository": "jtoy/awesome-tensorflow",
     "source_repository": "v1nvn/enhansome-tensorflow",
     "source_repository_description": null,
