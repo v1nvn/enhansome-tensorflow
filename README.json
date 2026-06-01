@@ -57,7 +57,7 @@
             "last_commit": "2024-07-26T19:46:13Z",
             "owner": "aymericdamien",
             "repo": "TensorFlow-Examples",
-            "stars": 43758
+            "stars": 43756
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2018-11-08T18:48:00Z",
             "owner": "samjabrahams",
             "repo": "tensorflow-on-raspberry-pi",
-            "stars": 2258
+            "stars": 2257
           }
         },
         {
@@ -158,7 +158,7 @@
             "last_commit": "2020-12-23T00:18:21Z",
             "owner": "astorfi",
             "repo": "TensorFlow-World",
-            "stars": 4496
+            "stars": 4497
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2020-10-22T05:26:17Z",
             "owner": "vahidk",
             "repo": "EffectiveTensorflow",
-            "stars": 8590
+            "stars": 8591
           }
         },
         {
@@ -397,7 +397,7 @@
             "last_commit": "2022-12-30T14:42:37Z",
             "owner": "Conchylicultor",
             "repo": "DeepQA",
-            "stars": 2915
+            "stars": 2914
           }
         },
         {
@@ -917,7 +917,7 @@
             "last_commit": "2026-05-24T11:31:41Z",
             "owner": "kubeflow",
             "repo": "kubeflow",
-            "stars": 15693
+            "stars": 15697
           }
         },
         {
@@ -1019,7 +1019,7 @@
             "last_commit": "2026-01-06T01:17:54Z",
             "owner": "magenta",
             "repo": "magenta",
-            "stars": 19779
+            "stars": 19780
           }
         }
       ],
@@ -1160,7 +1160,7 @@
             "last_commit": "2019-07-18T13:35:38Z",
             "owner": "ethereon",
             "repo": "caffe-tensorflow",
-            "stars": 2789
+            "stars": 2788
           }
         },
         {
@@ -1217,7 +1217,7 @@
             "last_commit": "2026-05-06T20:18:31Z",
             "owner": "google-deepmind",
             "repo": "sonnet",
-            "stars": 9917
+            "stars": 9918
           }
         },
         {
@@ -1368,7 +1368,7 @@
             "last_commit": "2024-07-26T07:39:39Z",
             "owner": "ml-tooling",
             "repo": "ml-workspace",
-            "stars": 3541
+            "stars": 3540
           }
         },
         {
@@ -1389,7 +1389,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-31T06:16:17.120Z",
+    "last_updated": "2026-06-01T06:53:37.305Z",
     "original_repository": "jtoy/awesome-tensorflow",
     "source_repository": "v1nvn/enhansome-tensorflow",
     "source_repository_description": null,
