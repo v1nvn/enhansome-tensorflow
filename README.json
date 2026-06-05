@@ -18,7 +18,7 @@
             "last_commit": "2021-12-11T20:54:51Z",
             "owner": "pkmital",
             "repo": "tensorflow_tutorials",
-            "stars": 5668
+            "stars": 5669
           }
         },
         {
@@ -57,7 +57,7 @@
             "last_commit": "2024-07-26T19:46:13Z",
             "owner": "aymericdamien",
             "repo": "TensorFlow-Examples",
-            "stars": 43754
+            "stars": 43752
           }
         },
         {
@@ -579,7 +579,7 @@
             "last_commit": "2019-04-18T18:36:45Z",
             "owner": "devsisters",
             "repo": "DQN-tensorflow",
-            "stars": 2585
+            "stars": 2586
           }
         },
         {
@@ -839,7 +839,7 @@
             "last_commit": "2022-11-07T13:58:59Z",
             "owner": "astorfi",
             "repo": "lip-reading-deeplearning",
-            "stars": 1903
+            "stars": 1904
           }
         },
         {
@@ -917,7 +917,7 @@
             "last_commit": "2026-05-24T11:31:41Z",
             "owner": "kubeflow",
             "repo": "kubeflow",
-            "stars": 15704
+            "stars": 15706
           }
         },
         {
@@ -1019,7 +1019,7 @@
             "last_commit": "2026-01-06T01:17:54Z",
             "owner": "magenta",
             "repo": "magenta",
-            "stars": 19784
+            "stars": 19786
           }
         }
       ],
@@ -1389,7 +1389,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-04T06:40:40.120Z",
+    "last_updated": "2026-06-05T06:20:23.074Z",
     "original_repository": "jtoy/awesome-tensorflow",
     "source_repository": "v1nvn/enhansome-tensorflow",
     "source_repository_description": null,
