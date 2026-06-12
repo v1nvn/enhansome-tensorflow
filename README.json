@@ -267,7 +267,7 @@
             "last_commit": "2024-02-22T02:05:20Z",
             "owner": "tensorlayer",
             "repo": "SRGAN",
-            "stars": 3474
+            "stars": 3473
           }
         },
         {
@@ -410,7 +410,7 @@
             "last_commit": "2021-10-05T13:25:46Z",
             "owner": "tensorlayer",
             "repo": "seq2seq-chatbot",
-            "stars": 841
+            "stars": 840
           }
         },
         {
@@ -592,7 +592,7 @@
             "last_commit": "2023-02-18T07:58:21Z",
             "owner": "tensorlayer",
             "repo": "TensorLayer",
-            "stars": 7385
+            "stars": 7384
           }
         },
         {
@@ -605,7 +605,7 @@
             "last_commit": "2023-02-18T07:58:21Z",
             "owner": "tensorlayer",
             "repo": "TensorLayer",
-            "stars": 7385
+            "stars": 7384
           }
         },
         {
@@ -618,7 +618,7 @@
             "last_commit": "2023-02-18T07:58:21Z",
             "owner": "tensorlayer",
             "repo": "TensorLayer",
-            "stars": 7385
+            "stars": 7384
           }
         },
         {
@@ -631,7 +631,7 @@
             "last_commit": "2023-02-18T07:58:21Z",
             "owner": "tensorlayer",
             "repo": "TensorLayer",
-            "stars": 7385
+            "stars": 7384
           }
         },
         {
@@ -904,7 +904,7 @@
             "last_commit": "2020-01-11T14:57:36Z",
             "owner": "mlachmish",
             "repo": "MusicGenreClassification",
-            "stars": 600
+            "stars": 599
           }
         },
         {
@@ -914,7 +914,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-05-24T11:31:41Z",
+            "last_commit": "2026-06-11T16:32:05Z",
             "owner": "kubeflow",
             "repo": "kubeflow",
             "stars": 15714
@@ -1019,7 +1019,7 @@
             "last_commit": "2026-01-06T01:17:54Z",
             "owner": "magenta",
             "repo": "magenta",
-            "stars": 19789
+            "stars": 19791
           }
         }
       ],
@@ -1056,7 +1056,7 @@
             "last_commit": "2024-07-30T20:06:20Z",
             "owner": "tensorflow",
             "repo": "lattice",
-            "stars": 523
+            "stars": 522
           }
         },
         {
@@ -1095,7 +1095,7 @@
             "last_commit": "2023-02-18T07:58:21Z",
             "owner": "tensorlayer",
             "repo": "TensorLayer",
-            "stars": 7385
+            "stars": 7384
           }
         },
         {
@@ -1108,7 +1108,7 @@
             "last_commit": "2026-06-11T05:17:25Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77666
+            "stars": 77667
           }
         },
         {
@@ -1178,7 +1178,7 @@
             "last_commit": "2026-06-11T05:17:25Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77666
+            "stars": 77667
           }
         },
         {
@@ -1217,7 +1217,7 @@
             "last_commit": "2026-05-06T20:18:31Z",
             "owner": "google-deepmind",
             "repo": "sonnet",
-            "stars": 9922
+            "stars": 9921
           }
         },
         {
@@ -1368,7 +1368,7 @@
             "last_commit": "2024-07-26T07:39:39Z",
             "owner": "ml-tooling",
             "repo": "ml-workspace",
-            "stars": 3541
+            "stars": 3540
           }
         },
         {
@@ -1389,7 +1389,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-11T06:46:54.736Z",
+    "last_updated": "2026-06-12T06:39:23.821Z",
     "original_repository": "jtoy/awesome-tensorflow",
     "source_repository": "v1nvn/enhansome-tensorflow",
     "source_repository_description": null,
