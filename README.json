@@ -44,7 +44,7 @@
             "last_commit": "2021-01-15T20:20:02Z",
             "owner": "Hvass-Labs",
             "repo": "TensorFlow-Tutorials",
-            "stars": 9268
+            "stars": 9266
           }
         },
         {
@@ -57,7 +57,7 @@
             "last_commit": "2024-07-26T19:46:13Z",
             "owner": "aymericdamien",
             "repo": "TensorFlow-Examples",
-            "stars": 43751
+            "stars": 43752
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2020-10-22T05:26:17Z",
             "owner": "vahidk",
             "repo": "EffectiveTensorflow",
-            "stars": 8588
+            "stars": 8587
           }
         },
         {
@@ -917,7 +917,7 @@
             "last_commit": "2026-06-11T16:32:05Z",
             "owner": "kubeflow",
             "repo": "kubeflow",
-            "stars": 15714
+            "stars": 15720
           }
         },
         {
@@ -1019,7 +1019,7 @@
             "last_commit": "2026-01-06T01:17:54Z",
             "owner": "magenta",
             "repo": "magenta",
-            "stars": 19791
+            "stars": 19794
           }
         }
       ],
@@ -1108,7 +1108,7 @@
             "last_commit": "2026-06-11T05:17:25Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77667
+            "stars": 77666
           }
         },
         {
@@ -1178,7 +1178,7 @@
             "last_commit": "2026-06-11T05:17:25Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77667
+            "stars": 77666
           }
         },
         {
@@ -1217,7 +1217,7 @@
             "last_commit": "2026-05-06T20:18:31Z",
             "owner": "google-deepmind",
             "repo": "sonnet",
-            "stars": 9921
+            "stars": 9920
           }
         },
         {
@@ -1389,7 +1389,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-12T06:39:23.821Z",
+    "last_updated": "2026-06-13T06:14:29.646Z",
     "original_repository": "jtoy/awesome-tensorflow",
     "source_repository": "v1nvn/enhansome-tensorflow",
     "source_repository_description": null,
